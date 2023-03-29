@@ -1,0 +1,15 @@
+C:\Users\LAB4\davi\bin\Debug\net7.0\davi.exe
+C:\Users\LAB4\davi\bin\Debug\net7.0\davi.deps.json
+C:\Users\LAB4\davi\bin\Debug\net7.0\davi.runtimeconfig.json
+C:\Users\LAB4\davi\bin\Debug\net7.0\davi.dll
+C:\Users\LAB4\davi\bin\Debug\net7.0\davi.pdb
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.csproj.AssemblyReference.cache
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.AssemblyInfoInputs.cache
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.AssemblyInfo.cs
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.dll
+C:\Users\LAB4\davi\obj\Debug\net7.0\refint\davi.dll
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.pdb
+C:\Users\LAB4\davi\obj\Debug\net7.0\davi.genruntimeconfig.cache
+C:\Users\LAB4\davi\obj\Debug\net7.0\ref\davi.dll
